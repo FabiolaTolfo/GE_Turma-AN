@@ -16,6 +16,7 @@ p{
 }
 
 header{
+    font-family:"Chakra Petch", sans-serif;
     border-bottom: solid 3px  rgb(192, 4, 250);
     padding: 20px;
     font-size: 32px;
