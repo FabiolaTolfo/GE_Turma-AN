@@ -44,6 +44,11 @@ img{
     display: flex;
     overflow-x: auto;
 }
+
 .categoria-vídeos img{
     opacity: 0.5;
+}
+
+.categoria-vídeos img:hover{
+    opacity: 1;
 }
